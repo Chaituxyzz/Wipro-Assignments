@@ -1,4 +1,4 @@
-package Assignment1;
+package BankApplication;
 
 
 public abstract class Account {

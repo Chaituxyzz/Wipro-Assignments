@@ -1,4 +1,4 @@
-package Assignment1;
+package BankApplication;
 
 public class Customer {
 	private String name;
