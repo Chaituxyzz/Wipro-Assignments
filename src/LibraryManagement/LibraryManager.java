@@ -156,4 +156,19 @@ public class LibraryManager {
             }
         }
     }
+
+	public void addBook(LibraryManagement.Book book) {
+		
+		
+	}
+
+	public boolean issueBook(int bookId, int memberId) {
+		
+		return false;
+	}
+
+	public void addMember(LibraryManagement.Member member) {
+		
+		
+	}
 }
